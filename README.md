@@ -2,7 +2,7 @@
 
 Description:
 
--This Project adds tracker Functionality to Transmission Torrent Client Remote Web Interface (tested only on latest ubuntu linux).
+-This Project adds tracker Functionality to Transmission Torrent Client Remote Web Interface (tested only on  ubuntu 16).
 
 Installation:
 
